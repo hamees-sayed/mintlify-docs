@@ -58,7 +58,7 @@ paths:
                   default: 1.0
             example:
               text: Hello, this is an example.
-              voice_id: emily
+              voice_id: 1234-voice-id
               add_wav_header: true
               sample_rate: 24000
               speed: 1.0
